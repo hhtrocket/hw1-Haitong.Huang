@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Haitong Huang, and I am a graduate student pursuing a Master of Science in Information Systems and Artificial Intelligence for Business at Johns Hopkins University. My research focuses on AI agent evaluation — I currently work as a Research Assistant at the Center for Digital Health and AI (CDHAI) at JHU, where I research state-of-the-art evaluation methodologies and benchmark datasets to establish robust performance metrics for AI agents. Previously, as an AI Specialist on the Storc App project under JHU's Ward Infinity program, I led feasibility work on preterm birth prediction using wearable sensors and developed an AI chatbot that delivers personalized, real-time maternal health support through large language models.
+My name is Haitong Huang, and I am a graduate student pursuing a Master of Science in Information Systems and Artificial Intelligence for Business at Johns Hopkins University. My research focuses on AI agent evaluation — I currently work as a Research Assistant at the Center for Digital Health and AI (CDHAI) at JHU, where I research state-of-the-art evaluation methodologies and benchmark datasets to establish robust performance metrics for AI agents. Previously, as an AI Specialist on the Storc App project under JHU's Ward Infinity program, I led feasibility work on preterm birth prediction using wearable sensors and developed an AI chatbot that delivers personalized, real-time maternal health support through large language models.Also I love to play basketball in my spare time.
 
 ## Industry Focus: AI Agents in Healthcare
 
@@ -22,7 +22,11 @@ Healthcare is one of the most data-rich yet underserved industries when it comes
 > "This is my CV. Please rewrite assistant_draft.md to better introduce me based on my actual background — emphasize my research projects at CDHAI and the Storc App, and focus less on my undergraduate background. Keep the required format: title, intro paragraph, industry paragraph, 3 bullet points on generative AI use cases, and the reflection note at the bottom."
 
 **What the assistant did well:**
-The assistant effectively integrated specific details from my CV — including CDHAI, the Storc App, and preterm birth prediction — into a coherent narrative that reads as genuinely personal rather than generic. The three bullet points were grounded in my actual work rather than abstract possibilities.
+The assistant effectively integrated specific details from my CV — including CDHAI, the Storc App, and preterm birth prediction — into a coherent narrative that reads as genuinely personal rather than generic.
 
 **What I needed to clarify or adjust:**
 I had to specify that the intro should highlight my current research role prominently rather than leading with my degree program, and I asked for the industry paragraph to reflect the evaluation challenges I encounter in practice, not just broad industry trends.
+
+**short notes**
+I added this sentence in first part "Also I love to play basketball in my spare time."I think this habit keeps me healthy.At last I delete one sentence in "assistant did well" part
+
