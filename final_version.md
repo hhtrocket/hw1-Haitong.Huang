@@ -27,6 +27,6 @@ The assistant effectively integrated specific details from my CV — including C
 **What I needed to clarify or adjust:**
 I had to specify that the intro should highlight my current research role prominently rather than leading with my degree program, and I asked for the industry paragraph to reflect the evaluation challenges I encounter in practice, not just broad industry trends.
 
-**short notes**
+## short notes
 I added this sentence in first part "Also I love to play basketball in my spare time."I think this habit keeps me healthy.At last I delete one sentence in "assistant did well" part :The three bullet points were grounded in my actual work rather than abstract possibilities.
 
